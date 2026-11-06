@@ -1,4 +1,7 @@
 # Pizza-RAG-Chatbot
+
+> 🍕 **What it shows:** I designed and wired an end-to-end retrieval-augmented AI agent that runs fully offline. Nothing leaves your machine.
+> **Stack:** n8n · Ollama (llama3.2) · Qdrant · LangChain
 A 100% local RAG with n8n, Ollama and Qdrant. This agent uses a semantic database (Qdrant) to answer questions about PDF files.
 
 ---
